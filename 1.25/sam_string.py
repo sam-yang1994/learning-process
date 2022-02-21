@@ -1,0 +1,2 @@
+s="lianxi"
+s.fo
